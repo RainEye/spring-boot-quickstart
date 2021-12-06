@@ -1,4 +1,4 @@
-#spring-boot-quickstart
+# spring-boot-quickstart
 
 ### What's this
 spring-boot-quickstart is an archetype for the developer to build a basic spring-boot project quickly.

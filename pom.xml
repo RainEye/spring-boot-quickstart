@@ -17,7 +17,7 @@
 		<lombok.version>1.18.22</lombok.version>
 		<archetype.version>3.2.0</archetype.version>
 	</properties>
-	<groupId>com.tapwater.archetypes</groupId>
+	<groupId>io.github.raineye.archetypes</groupId>
 	<artifactId>spring-boot-quickstart</artifactId>
 	<version>1.0.0</version>
 	<name>spring-boot-quickstart</name>

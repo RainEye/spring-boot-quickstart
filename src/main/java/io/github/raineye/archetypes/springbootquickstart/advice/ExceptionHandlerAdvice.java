@@ -1,7 +1,7 @@
-package com.tapwater.archetypes.springbootquickstart.advice;
+package io.github.raineye.archetypes.springbootquickstart.advice;
 
-import com.tapwater.archetypes.springbootquickstart.exception.BusinessException;
-import com.tapwater.archetypes.springbootquickstart.util.RestResponse;
+import io.github.raineye.archetypes.springbootquickstart.exception.BusinessException;
+import io.github.raineye.archetypes.springbootquickstart.util.RestResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.validation.BindException;
 import org.springframework.validation.FieldError;

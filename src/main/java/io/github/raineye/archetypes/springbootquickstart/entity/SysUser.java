@@ -1,4 +1,4 @@
-package com.tapwater.archetypes.springbootquickstart.entity;
+package io.github.raineye.archetypes.springbootquickstart.entity;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.tapwater.archetypes.springbootquickstart.util;
+package io.github.raineye.archetypes.springbootquickstart.util;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

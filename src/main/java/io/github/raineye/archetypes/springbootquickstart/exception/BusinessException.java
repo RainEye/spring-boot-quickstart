@@ -1,4 +1,4 @@
-package com.tapwater.archetypes.springbootquickstart.exception;
+package io.github.raineye.archetypes.springbootquickstart.exception;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

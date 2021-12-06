@@ -1,7 +1,7 @@
-package com.tapwater.archetypes.springbootquickstart.dao;
+package io.github.raineye.archetypes.springbootquickstart.dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.tapwater.archetypes.springbootquickstart.entity.SysUser;
+import io.github.raineye.archetypes.springbootquickstart.entity.SysUser;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 

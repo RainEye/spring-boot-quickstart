@@ -1,9 +1,9 @@
-package com.tapwater.archetypes.springbootquickstart.service.impl;
+package io.github.raineye.archetypes.springbootquickstart.service.impl;
 
-import com.tapwater.archetypes.springbootquickstart.dao.SysUserMapper;
-import com.tapwater.archetypes.springbootquickstart.entity.SysUser;
-import com.tapwater.archetypes.springbootquickstart.exception.BusinessException;
-import com.tapwater.archetypes.springbootquickstart.service.LoginService;
+import io.github.raineye.archetypes.springbootquickstart.dao.SysUserMapper;
+import io.github.raineye.archetypes.springbootquickstart.entity.SysUser;
+import io.github.raineye.archetypes.springbootquickstart.exception.BusinessException;
+import io.github.raineye.archetypes.springbootquickstart.service.LoginService;
 import org.springframework.stereotype.Service;
 
 @Service

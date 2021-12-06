@@ -1,7 +1,7 @@
-package com.tapwater.archetypes.springbootquickstart.controller;
+package io.github.raineye.archetypes.springbootquickstart.controller;
 
-import com.tapwater.archetypes.springbootquickstart.service.LoginService;
-import com.tapwater.archetypes.springbootquickstart.util.RestResponse;
+import io.github.raineye.archetypes.springbootquickstart.service.LoginService;
+import io.github.raineye.archetypes.springbootquickstart.util.RestResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

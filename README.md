@@ -12,9 +12,11 @@ spring-boot-quickstart is an archetype for the developer to build a basic spring
 6. MybatisPlus
 
 ### How to use
-1. git clone 
-2. mvn archetype:create-from-project
-3. cd target/generated-sources/archetype
-4. mvn clean install
-5. add the archetype to idea
-6. create a project from this archetype
+**install manually**
+1. git clone https://github.com/RainEye/spring-boot-quickstart.git
+2. cd spring-boot-quickstart
+3. mvn archetype:create-from-project
+4. cd target/generated-sources/archetype
+5. mvn clean install
+6. add the archetype to idea
+7. create a project from this archetype
